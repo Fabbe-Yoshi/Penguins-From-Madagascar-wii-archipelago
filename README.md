@@ -25,6 +25,7 @@ Because this game runs on the Nintendo Wii framework, you will need:
 - An emulator (such as **Dolphin**) or a homebrew-enabled Wii console.
 - A legally sourced ROM/ISO of *Penguins of Madagascar* (Wii).
 - *(Optional)* A memory-watching client script or connector to bridge the game state to the Archipelago server.
+- Keep in mind that some checks could require exiting and re-entering Penguin HQ (world unlock checks) 
 
 ## Webhost Compatibility
 Since this code contains no copyrighted assets or game files, you can generate your game seeds locally using the Archipelago client toolset, and then safely upload the resulting `.zip` player files directly to [archipelago.gg](https://archipelago.gg) to host your multiplayer server lobbies.
